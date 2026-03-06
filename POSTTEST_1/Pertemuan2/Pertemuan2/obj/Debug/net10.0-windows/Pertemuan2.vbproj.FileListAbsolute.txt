@@ -1,0 +1,17 @@
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\obj\Debug\net10.0-windows\Pertemuan2.Form1.resources
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\obj\Debug\net10.0-windows\Pertemuan2.vbproj.GenerateResource.cache
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\obj\Debug\net10.0-windows\Pertemuan2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\obj\Debug\net10.0-windows\Pertemuan2.AssemblyInfoInputs.cache
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\obj\Debug\net10.0-windows\Pertemuan2.AssemblyInfo.vb
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\obj\Debug\net10.0-windows\Pertemuan2.vbproj.CoreCompileInputs.cache
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\obj\Debug\net10.0-windows\Pertemuan2.sourcelink.json
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\bin\Debug\net10.0-windows\Pertemuan2.exe
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\bin\Debug\net10.0-windows\Pertemuan2.deps.json
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\bin\Debug\net10.0-windows\Pertemuan2.runtimeconfig.json
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\bin\Debug\net10.0-windows\Pertemuan2.dll
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\bin\Debug\net10.0-windows\Pertemuan2.pdb
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\obj\Debug\net10.0-windows\Pertemuan2.dll
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\obj\Debug\net10.0-windows\refint\Pertemuan2.dll
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\obj\Debug\net10.0-windows\Pertemuan2.pdb
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\obj\Debug\net10.0-windows\Pertemuan2.genruntimeconfig.cache
+D:\PEMVIS\POSTTEST_1\Pertemuan2\Pertemuan2\obj\Debug\net10.0-windows\ref\Pertemuan2.dll

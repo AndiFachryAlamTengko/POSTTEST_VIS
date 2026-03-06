@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PEMVIS\\POSTTEST_1\\Pertemuan2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AF6330-8013-4D44-587D-419C4E96392A}|Pertemuan2\\Pertemuan2.vbproj|d:\\pemvis\\posttest_1\\pertemuan2\\pertemuan2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3AF6330-8013-4D44-587D-419C4E96392A}|Pertemuan2\\Pertemuan2.vbproj|solutionrelative:pertemuan2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AF6330-8013-4D44-587D-419C4E96392A}|Pertemuan2\\Pertemuan2.vbproj|d:\\pemvis\\posttest_1\\pertemuan2\\pertemuan2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3AF6330-8013-4D44-587D-419C4E96392A}|Pertemuan2\\Pertemuan2.vbproj|solutionrelative:pertemuan2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AF6330-8013-4D44-587D-419C4E96392A}|Pertemuan2\\Pertemuan2.vbproj|d:\\pemvis\\posttest_1\\pertemuan2\\pertemuan2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3AF6330-8013-4D44-587D-419C4E96392A}|Pertemuan2\\Pertemuan2.vbproj|solutionrelative:pertemuan2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "D:\\PEMVIS\\POSTTEST_1\\Pertemuan2\\Pertemuan2\\Module1.vb",
+              "RelativeDocumentMoniker": "Pertemuan2\\Module1.vb",
+              "ToolTip": "D:\\PEMVIS\\POSTTEST_1\\Pertemuan2\\Pertemuan2\\Module1.vb",
+              "RelativeToolTip": "Pertemuan2\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-05T02:05:45.62Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\PEMVIS\\POSTTEST_1\\Pertemuan2\\Pertemuan2\\Form1.vb",
+              "RelativeDocumentMoniker": "Pertemuan2\\Form1.vb",
+              "ToolTip": "D:\\PEMVIS\\POSTTEST_1\\Pertemuan2\\Pertemuan2\\Form1.vb",
+              "RelativeToolTip": "Pertemuan2\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-05T02:16:57.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\PEMVIS\\POSTTEST_1\\Pertemuan2\\Pertemuan2\\Form1.vb",
+              "RelativeDocumentMoniker": "Pertemuan2\\Form1.vb",
+              "ToolTip": "D:\\PEMVIS\\POSTTEST_1\\Pertemuan2\\Pertemuan2\\Form1.vb [Design]",
+              "RelativeToolTip": "Pertemuan2\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-05T01:25:54.89Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
